@@ -1,2 +1,7 @@
 # Internship8thsem
-All working Lab testing
+Os used 
+KALI LINUX
+UBUNTU
+Tools used 
+CISCO PACKET SNIFFING
+METASPLOIT
