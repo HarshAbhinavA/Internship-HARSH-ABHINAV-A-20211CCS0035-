@@ -1,7 +1,0 @@
-# Internship8thsem
-Os used 
-KALI LINUX
-UBUNTU
-Tools used 
-CISCO PACKET SNIFFING
-METASPLOIT
